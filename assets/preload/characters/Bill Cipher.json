@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-127
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Bill Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				180,
+				-126
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "bill left"
+		},
+		{
+			"offsets": [
+				75,
+				-72
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "bill up"
+		},
+		{
+			"offsets": [
+				-105,
+				-159
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Bill Right"
+		},
+		{
+			"offsets": [
+				-5,
+				-164
+			],
+			"indices": [],
+			"fps": 25,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Bill DOwn"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bill Cipher",
+	"position": [
+		-30,
+		130
+	],
+	"healthicon": "bill-cipher",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		102
+	],
+	"camera_position": [
+		5,
+		175
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

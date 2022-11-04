@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				-148
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Drip Bill Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				222,
+				-108
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Drip Bill Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				237,
+				-24
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Drip Bill Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-64
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Drip Bill Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-230
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Drip Bill Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Drip Bill",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "drip-bill",
+	"flip_x": false,
+	"healthbar_colors": [
+		254,
+		255,
+		85
+	],
+	"camera_position": [
+		-155,
+		295
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

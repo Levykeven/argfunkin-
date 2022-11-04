@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-135
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				215,
+				-111
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				97,
+				-180
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-7
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				171,
+				-232
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				101,
+				-137
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "postAttack",
+			"indices": [],
+			"name": "comeback"
+		},
+		{
+			"offsets": [
+				120,
+				-82
+			],
+			"indices": [],
+			"fps": 60,
+			"anim": "attack",
+			"loop": false,
+			"name": "throw"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Andy Glitched",
+	"position": [
+		-50,
+		120
+	],
+	"healthicon": "andy-glitched",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-510,
+		190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

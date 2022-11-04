@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-191
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Crow Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				113,
+				-183
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Crow Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-82,
+				-168
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Crow Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				-192
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Crow Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-227
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Crow Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Crow64",
+	"position": [
+		20,
+		10
+	],
+	"healthicon": "crow64",
+	"flip_x": false,
+	"healthbar_colors": [
+		57,
+		57,
+		81
+	],
+	"camera_position": [
+		-50,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}
