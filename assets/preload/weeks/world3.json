@@ -1,0 +1,50 @@
+{
+	"storyName": "Andy's Farm",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "world2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Living Hell",
+			"andy",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Apple Farm",
+			"andy",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Harvest",
+			"andy-glitched",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"andyportal",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "World 3"
+}

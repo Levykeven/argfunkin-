@@ -1,0 +1,41 @@
+{
+	"storyName": "Bill Cipher",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "world1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"billportal",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Mindscape",
+			"bill-cipher",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Power Gamble",
+			"bill-cipher",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "World 2",
+	"hiddenUntilUnlocked": false
+}
